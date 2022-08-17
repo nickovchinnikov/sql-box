@@ -1,7 +1,6 @@
 # SQL Crash Course: Data Analysis with MySQL & Google BigQuery
 
 
-
 ## Introduction to databases
 
 ### Installation guide
@@ -27,6 +26,7 @@
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
+
 ### Data Normalization
 
 #### Links:
@@ -39,6 +39,8 @@
 ## DDL = Data Definition Language
 
 ### DDL review, CREATE DATABASE
+
+[Pull Request](https://github.com/nickovchinnikov/sql-box/pull/1)
 
 #### Links:
 
