@@ -1,7 +1,7 @@
 # SQL Crash Course: Data Analysis with MySQL & Google BigQuery
 
 
-## Introduction to databases
+## 1. Introduction to databases
 
 ### Installation guide
 
@@ -36,11 +36,10 @@
 ### SQL and RDBMS
 
 
-## DDL = Data Definition Language
+## 2. DDL = Data Definition Language
 
 ### DDL review, CREATE DATABASE
-
-[Pull Request](https://github.com/nickovchinnikov/sql-box/pull/1)
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/1)
 
 #### Links:
 
@@ -50,3 +49,11 @@
 
 [Create Database](https://dev.mysql.com/doc/refman/8.0/en/create-database.html)
 
+### CREATE TABLE intro
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/2)
+
+#### Links:
+
+[CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
+
+[The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)](https://dev.mysql.com/doc/refman/8.0/en/charset-unicode-utf8mb4.html)
