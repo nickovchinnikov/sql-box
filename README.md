@@ -57,3 +57,18 @@
 [CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
 
 [The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)](https://dev.mysql.com/doc/refman/8.0/en/charset-unicode-utf8mb4.html)
+
+### Numbers
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/3)
+
+#### Links:
+
+[Numeric Data Types](https://dev.mysql.com/doc/refman/8.0/en/numeric-types.html)
+
+[Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE)
+
+[Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
+
+[Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+
