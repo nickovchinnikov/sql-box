@@ -19,6 +19,7 @@
 
 [Docker MySQL image](https://hub.docker.com/_/mysql/)
 
+_______
 
 ### A glance at the Workbench
 
@@ -26,7 +27,7 @@
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-
+_______
 ### Data Normalization
 
 #### Links:
@@ -35,7 +36,7 @@
 
 ### SQL and RDBMS
 
-
+_______
 ## 2. DDL = Data Definition Language
 
 ### DDL review, CREATE DATABASE
@@ -49,6 +50,8 @@
 
 [Create Database](https://dev.mysql.com/doc/refman/8.0/en/create-database.html)
 
+_______
+
 ### CREATE TABLE intro
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/2)
 
@@ -57,6 +60,8 @@
 [CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
 
 [The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)](https://dev.mysql.com/doc/refman/8.0/en/charset-unicode-utf8mb4.html)
+
+_______
 
 ### Numbers
 
@@ -71,4 +76,18 @@
 [Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
 
 [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+
+_______
+
+### Date and Time
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/4)
+
+#### Links:
+
+[Date and Time Data Types](https://dev.mysql.com/doc/refman/8.0/en/date-and-time-types.html)
+
+[Unix time](https://en.wikipedia.org/wiki/Unix_time)
+
+_______
 
