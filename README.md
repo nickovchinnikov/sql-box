@@ -111,3 +111,10 @@ _______
 
 [How MySQL Uses Indexes](https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html)
 _______
+
+### Primary and Unique keys
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/6)
+
+#### Links:
+[CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
