@@ -100,3 +100,14 @@ _______
 [String Data Types](https://dev.mysql.com/doc/refman/8.0/en/string-types.html)
 
 _______
+
+### Indexes and Binary Search
+
+#### Links:
+
+[Binary Search Animation by Y. Daniel Liang](https://yongdanielliang.github.io/animation/web/BinarySearchNew.html)
+
+[B-trees visualization](https://liveexample.pearsoncmg.com/dsanimation13ejava/BSTeBook.html)
+
+[How MySQL Uses Indexes](https://dev.mysql.com/doc/refman/8.0/en/mysql-indexes.html)
+_______
