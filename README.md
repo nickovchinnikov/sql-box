@@ -91,3 +91,12 @@ _______
 
 _______
 
+### String Data Types
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/5)
+
+#### Links:
+
+[String Data Types](https://dev.mysql.com/doc/refman/8.0/en/string-types.html)
+
+_______
