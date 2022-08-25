@@ -128,3 +128,13 @@ _______
 
 [FOREIGN KEY Constraints](https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html)
 _______
+
+### ALTER STATEMENT
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/8)
+
+#### Links:
+
+[ALTER TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
+[ALTER DATABASE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-database.html)
+_______
