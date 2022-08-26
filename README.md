@@ -118,3 +118,13 @@ _______
 
 #### Links:
 [CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/create-table.html)
+_______
+
+### Foreign keys
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/8)
+
+#### Links:
+
+[FOREIGN KEY Constraints](https://dev.mysql.com/doc/refman/8.0/en/create-table-foreign-keys.html)
+_______
