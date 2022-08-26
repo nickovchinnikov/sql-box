@@ -148,3 +148,8 @@ _______
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/10)
 ___
+
+### Export DDL from EER
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/11)
+___
