@@ -122,7 +122,7 @@ _______
 
 ### Foreign keys
 
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/7)
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/8)
 
 #### Links:
 
