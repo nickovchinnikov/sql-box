@@ -142,5 +142,9 @@ _______
 [ALTER DATABASE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-database.html)
 _______
 
-## 4. Create schemas with Workbench
+## 4. Workbench and EER (Enhanced Entity-Relationship) diagrams
 
+### EER diagram with Workbench
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/10)
+___
