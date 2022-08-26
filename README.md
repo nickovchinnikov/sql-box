@@ -101,7 +101,9 @@ _______
 
 _______
 
-### Indexes and Binary Search
+## 3. Indexes and Keys
+
+### Binary Search, B-trees and Keys
 
 #### Links:
 
@@ -139,3 +141,6 @@ _______
 
 [ALTER DATABASE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-database.html)
 _______
+
+## 4. Create schemas with Workbench
+
