@@ -158,3 +158,9 @@ ___
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/12)
 ___
+
+## 5. DML = Data Manipulation Language
+
+### Insert
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/13)
