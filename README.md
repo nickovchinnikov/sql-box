@@ -190,3 +190,12 @@ ___
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/16)
 ___
+
+### UPDATE
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/17)
+
+#### Links:
+
+[UPDATE Statement](https://dev.mysql.com/doc/refman/8.0/en/update.html)
+___
