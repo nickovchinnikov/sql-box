@@ -199,3 +199,12 @@ ___
 
 [UPDATE Statement](https://dev.mysql.com/doc/refman/8.0/en/update.html)
 ___
+
+### DELETE
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/18)
+
+#### Links:
+
+[DELETE Statement](https://dev.mysql.com/doc/refman/8.0/en/delete.html)
+___
