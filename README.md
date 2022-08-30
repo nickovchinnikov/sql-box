@@ -1,4 +1,4 @@
-# SQL Crash Course: Data Analysis with MySQL & Google BigQuery
+# SQL Crash Course: Data Analysis with MySQL
 
 
 ## 1. Introduction to databases
@@ -173,4 +173,13 @@ ___
 #### Links:
 
 [Employees test DB github](https://github.com/datacharmer/test_db)
+
+[SELECT Statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
+___
+
+### Comparison Functions and Operators
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/15)
+
+### [Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce)
 ___
