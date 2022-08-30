@@ -181,5 +181,12 @@ ___
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/15)
 
-### [Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce)
+#### Links:
+
+[Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce)
+___
+
+### ORDER BY, LIMIT, Subqueries
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/16)
 ___
