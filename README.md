@@ -164,3 +164,13 @@ ___
 ### Insert
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/13)
+___
+
+### SELECT and WHERE review
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/14)
+
+#### Links:
+
+[Employees test DB github](https://github.com/datacharmer/test_db)
+___
