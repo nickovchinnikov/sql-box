@@ -208,3 +208,18 @@ ___
 
 [DELETE Statement](https://dev.mysql.com/doc/refman/8.0/en/delete.html)
 ___
+
+## 6. Mighty Select
+
+### Aggregate Functions (COUNT, MAX, AVG and etc)
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/19)
+
+#### Links:
+
+[Aggregate Function Descriptions](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html)
+
+[Variance](https://en.wikipedia.org/wiki/Variance)
+
+[Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+___
