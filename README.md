@@ -223,3 +223,12 @@ ___
 
 [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 ___
+
+### GROUP BY and HAVING
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/20)
+
+#### Links:
+
+[SELECT statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
+___
