@@ -232,3 +232,20 @@ ___
 
 [SELECT statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
 ___
+
+### UNION, INTERSECT, EXCEPT
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/21)
+
+#### Links:
+
+[UNION Clause](https://dev.mysql.com/doc/refman/8.0/en/union.html)
+
+
+![Sets operations](./5.MightySelect/3.sets_union.png)
+
+![Union schema](./5.MightySelect/3.UNION.png)
+
+![Union all schema](./5.MightySelect/3.UNION_ALL.png)
+
+___
