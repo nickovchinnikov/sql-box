@@ -233,7 +233,7 @@ ___
 [SELECT statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
 ___
 
-### UNION, INTERSECT, EXCEPT
+### UNION
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/21)
 
@@ -241,11 +241,23 @@ ___
 
 [UNION Clause](https://dev.mysql.com/doc/refman/8.0/en/union.html)
 
-
 ![Sets operations](./5.MightySelect/3.sets_union.png)
 
 ![Union schema](./5.MightySelect/3.UNION.png)
 
 ![Union all schema](./5.MightySelect/3.UNION_ALL.png)
 
+___
+
+### What is the beast: JOIN Clause?
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/22)
+
+#### Links:
+
+[Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product)
+
+[JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)
+
+![Cartesian product](./5.MightySelect/4.Cartesian_Product_scaled.png)
 ___
