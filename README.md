@@ -1,4 +1,4 @@
-# SQL Crash Course: Data Analysis with MySQL
+# SQL Crash Course: MySQL for Developers and Data Analyst
 
 
 ## 1. Introduction to databases
@@ -246,7 +246,6 @@ ___
 ![Union schema](./5.MightySelect/3.UNION.png)
 
 ![Union all schema](./5.MightySelect/3.UNION_ALL.png)
-
 ___
 
 ### What is the beast: JOIN Clause?
@@ -260,4 +259,17 @@ ___
 [JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)
 
 ![Cartesian product](./5.MightySelect/4.Cartesian_Product_scaled.png)
+___
+
+### JOIN types explained with diagrams (not Venn!)
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/23)
+
+#### Links:
+
+[Relational algebra](https://en.wikipedia.org/wiki/Relational_algebra)
+
+![JOIN diagrams](./5.MightySelect/5.JOIN_diagrams.png)
+
+![CROSS JOIN](./5.MightySelect/5.CROSS_JOIN.png)
 ___
