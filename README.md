@@ -273,3 +273,8 @@ ___
 
 ![CROSS JOIN](./5.MightySelect/5.CROSS_JOIN.png)
 ___
+
+### The Power of JOIN
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/24)
+___
