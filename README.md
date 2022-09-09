@@ -63,20 +63,17 @@ _______
 
 _______
 
-### Numbers
+### Integers
 
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/3)
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/26)
 
 #### Links:
 
 [Numeric Data Types](https://dev.mysql.com/doc/refman/8.0/en/numeric-types.html)
 
-[Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE)
+![Twos complement: Negative numbers in binary](./1.DDL/TwosComplement.png)
 
-[Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
-
-[Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
-
+[YouTube: Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE)
 _______
 
 ### Date and Time
