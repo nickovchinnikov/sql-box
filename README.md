@@ -76,6 +76,28 @@ _______
 [YouTube: Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE)
 _______
 
+### Floating-point numbers, exact precision and BIT
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/27)
+
+![Single-precision floating-point](./1.DDL/Float_example.png)
+
+![Double-precision floating-point format](./1.DDL/Double_example.png)
+
+#### Links:
+
+[Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
+
+[Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+
+[Floating Point Numbers - Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
+
+[Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile](https://www.youtube.com/watch?v=f4ekifyijIg)
+
+[Floating Point Numbers (Part2: Fp Addition) - Computerphile](https://www.youtube.com/watch?v=782QWNOD_Z0)
+
+_______
+
 ### Date and Time
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/4)
