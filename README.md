@@ -98,6 +98,75 @@ _______
 
 _______
 
+### UTF8MB4 Character Set, Collation Explained
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/28)
+
+Below is the full list of new collations added so far in MySQL 8.0.0
+
+#### The convention used here is:
+
+* Character-set name (utf8mb4)
+* Language identifier (de,is etc)
+* Unicode version (0900)
+* Accent and case sensitivity (ai_ci means case and accent insensitive)
+
+| Collation                  |
+|----------------------------|
+| utf8mb4_0900_ai_ci         |
+| utf8mb4_de_pb_0900_ai_ci   |
+| utf8mb4_is_0900_ai_ci      |
+| utf8mb4_lv_0900_ai_ci      |
+| utf8mb4_ro_0900_ai_ci      |
+| utf8mb4_sl_0900_ai_ci      |
+| utf8mb4_pl_0900_ai_ci      |
+| utf8mb4_et_0900_ai_ci      |
+| utf8mb4_es_0900_ai_ci      |
+| utf8mb4_sv_0900_ai_ci      |
+| utf8mb4_tr_0900_ai_ci      |
+| utf8mb4_cs_0900_ai_ci      |
+| utf8mb4_da_0900_ai_ci      |
+| utf8mb4_lt_0900_ai_ci      |
+| utf8mb4_sk_0900_ai_ci      |
+| utf8mb4_es_trad_0900_ai_ci |
+| utf8mb4_la_0900_ai_ci      |
+| utf8mb4_eo_0900_ai_ci      |
+| utf8mb4_hu_0900_ai_ci      |
+| utf8mb4_hr_0900_ai_ci      |
+| utf8mb4_vi_0900_ai_ci      |
+
+#### Basic Multilingual Plane (BMP):
+
+![BMP](./1.DDL/BMP.png)
+
+#### Links:
+
+[Plane (Unicode)](https://en.wikipedia.org/wiki/Plane_(Unicode))
+
+[The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)](https://dev.mysql.com/doc/refman/8.0/en/charset-unicode-utf8mb4.html)
+
+[New collations in MySQL 8.0.0 ](https://dev.mysql.com/blog-archive/new-collations-in-mysql-8-0-0/)
+
+[MySQL 8.0 Collations: The devil is in the details](https://dev.mysql.com/blog-archive/mysql-8-0-collations-the-devil-is-in-the-details/)
+
+[Unicode Collation Algorithm](https://unicode.org/reports/tr10/#Default_Unicode_Collation_Element_Table)
+
+_______
+
+### VARCHAR, CHAR
+
+### 
+
+### String Data Types
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/28)
+
+#### Links:
+
+[String Data Types](https://dev.mysql.com/doc/refman/8.0/en/string-types.html)
+
+_______
+
 ### Date and Time
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/4)
@@ -110,15 +179,6 @@ _______
 
 _______
 
-### String Data Types
-
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/5)
-
-#### Links:
-
-[String Data Types](https://dev.mysql.com/doc/refman/8.0/en/string-types.html)
-
-_______
 
 ## 3. Indexes and Keys
 
