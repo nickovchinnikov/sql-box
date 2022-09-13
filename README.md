@@ -153,17 +153,21 @@ Below is the full list of new collations added so far in MySQL 8.0.0
 
 _______
 
-### VARCHAR, CHAR
+### VARCHAR, TEXT, CHAR
 
-### 
-
-### String Data Types
-
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/28)
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/29)
 
 #### Links:
 
 [String Data Types](https://dev.mysql.com/doc/refman/8.0/en/string-types.html)
+
+[The CHAR and VARCHAR Types](https://dev.mysql.com/doc/refman/8.0/en/char.html)
+
+[Limits on Table Column Count and Row Size](https://dev.mysql.com/doc/refman/8.0/en/column-count-limit.html)
+
+[String Type Storage Requirements](https://dev.mysql.com/doc/refman/8.0/en/storage-requirements.html#data-types-storage-reqs-strings)
+
+[Specifying Character Sets and Collations](https://dev.mysql.com/doc/refman/8.0/en/charset-syntax.html)
 
 _______
 
