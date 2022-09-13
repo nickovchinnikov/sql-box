@@ -171,20 +171,6 @@ _______
 
 _______
 
-### BLOB, ENUM, SET
-
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/30)
-
-#### Links:
-
-[ENUM and SET Constraints](https://dev.mysql.com/doc/refman/8.0/en/constraint-enum.html)
-
-[The BLOB and TEXT Types](https://dev.mysql.com/doc/refman/8.0/en/blob.html)
-
-[String Type Storage Requirements](https://dev.mysql.com/doc/refman/8.0/en/storage-requirements.html#data-types-storage-reqs-strings)
-
-_______
-
 ### Date and Time
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/4)
