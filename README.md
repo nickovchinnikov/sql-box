@@ -197,6 +197,11 @@ _______
 
 _______
 
+### DEFAULT values
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/35)
+
+_______
 
 ## 3. Indexes and Keys
 
