@@ -268,6 +268,24 @@ ___
 
 ## 5. DML = Data Manipulation Language
 
+### Intro to DML
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/37)
+
+#### CRUD operations:
+
+* CREATE procedures: Performs the `INSERT` statement to create a new record.
+
+* READ procedures: `SELECT` statement reads the table records based on the primary keynoted within the input parameter.
+
+* UPDATE procedures: Executes an `UPDATE` statement on the table based on the specified primary key for a record within the WHERE clause of the statement.
+
+* DELETE procedures: `DELETE` statement deletes a specified row in the WHERE clause.
+
+#### Links:
+
+#### [Data Manipulation Statements](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
+
 ### Insert
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/13)
