@@ -302,15 +302,6 @@ ___
 [SELECT Statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
 ___
 
-### Comparison Functions and Operators
-
-### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/15)
-
-#### Links:
-
-[Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce)
-___
-
 ### ORDER BY, LIMIT, Subqueries
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/16)
