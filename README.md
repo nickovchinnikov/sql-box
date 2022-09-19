@@ -285,10 +285,16 @@ ___
 #### Links:
 
 #### [Data Manipulation Statements](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
+___
 
 ### Insert
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/13)
+___
+
+### Upload employees test DB
+
+### [Employees test_db GitHub](https://github.com/datacharmer/test_db)
 ___
 
 ### SELECT and WHERE review
@@ -297,9 +303,17 @@ ___
 
 #### Links:
 
-[Employees test DB github](https://github.com/datacharmer/test_db)
-
 [SELECT Statement](https://dev.mysql.com/doc/refman/8.0/en/select.html)
+___
+
+### Comparison Functions and Operators
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/39)
+
+#### Links:
+
+[Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#function_coalesce)
+
 ___
 
 ### ORDER BY, LIMIT, Subqueries
