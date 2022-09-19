@@ -316,6 +316,16 @@ ___
 
 ___
 
+### LIKE and String Comparison
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/40)
+
+#### Links:
+
+[Comparison Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/string-comparison-functions.html#operator_like)
+
+___
+
 ### ORDER BY, LIMIT, Subqueries
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/16)
