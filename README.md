@@ -419,6 +419,11 @@ ___
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/24)
 ___
 
+### Data relations
+
+### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/44)
+___
+
 ### Greatest N per group
 
 ### [Pull Request](https://github.com/nickovchinnikov/sql-box/pull/25)
