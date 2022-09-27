@@ -1,4 +1,4 @@
-# SQL Crash Course: MySQL for Developers and Data Analyst
+# MySQL for everyone. SQL for Developers, Data Analysts and BI
 
 
 ## 1. Introduction to databases
