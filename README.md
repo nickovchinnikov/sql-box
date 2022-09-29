@@ -1,4 +1,4 @@
-# MySQL for everyone. SQL for Developers, Data Analysts and BI
+# [MySQL for everyone. SQL for Developers, Data Analysts and BI](https://www.udemy.com/course/mysql-for-everyone/?referralCode=3C9C5DC37C50B26DD154)
 
 
 ## 1. Introduction to databases
